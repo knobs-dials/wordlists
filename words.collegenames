@@ -1,8 +1,4 @@
-[11
-[14
-[2088
-[24
-[34
+# words used in college names, not full names.  Includes some dirty processing
 aamu
 abac
 abbey
@@ -16,7 +12,6 @@ acphs
 adams
 addiction
 addison
-addition/update
 adelphi
 adler
 adolphus
@@ -44,7 +39,6 @@ alaska
 alaskapacific
 alasu
 albany
-albany,
 albertus
 albion
 albizu
@@ -126,7 +120,6 @@ army
 arnold
 arrow
 art
-art,
 artacademy
 artcenter
 artes
@@ -336,7 +329,6 @@ calarts
 calbaptist
 caldwell
 california
-california,
 callutheran
 calpoly
 calstate
@@ -486,10 +478,6 @@ coker
 colby
 colby-sawyer
 colgate
-college
-college,
-college/capital
-collegeforcreativestudies
 collegeofidaho
 colleges
 colorado
@@ -585,7 +573,6 @@ cumberland
 cumberlands
 cune
 cuny
-cuny,
 cu-portland
 curry
 curtis
@@ -628,7 +615,6 @@ derecho
 des
 desales
 design
-design,
 desu
 detroit
 devry
@@ -709,7 +695,6 @@ enmu
 environmental
 erau
 erie
-erie,
 erikson
 erskine
 escuela
@@ -744,7 +729,6 @@ farmingdale
 farmington
 fashion
 faulkner
-fayette,
 fayetteville
 fe
 felician
@@ -767,7 +751,6 @@ five
 flagler
 flint
 florida
-florida,
 floridacollege
 flsouthern
 fmarion
@@ -1249,7 +1232,6 @@ marty
 mary
 marygrove
 maryland
-maryland,
 marylhurst
 marymount
 marymountpv
@@ -1455,7 +1437,6 @@ ndez
 ndnu
 ndsu
 nebraska
-nebraska,
 nebrwesleyan
 nechristian
 necmusic
@@ -1633,7 +1614,6 @@ pine
 pitt
 pittsburg
 pittsburgh
-pittsburgh,
 pittstate
 pitzer
 pl
@@ -1935,8 +1915,6 @@ stanford
 stanislaus
 stark
 state
-state,
-state)
 staten
 states
 station
@@ -2041,7 +2019,6 @@ technological
 technology
 temple
 tennessee
-tennessee,
 tesc
 texarkana
 texas
@@ -2190,7 +2167,6 @@ universidad
 universitario
 universities
 university
-university,
 university/purdue
 unlv
 unmc
