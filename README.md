@@ -26,10 +26,9 @@ Where wordlists had initial comments, those are left in.
    ...so when loading them, you may want to ignore initial lines starting with #, which is the usual way to put in comments.
 
 I will try to note the origin -- the name should be a hint at least -- but there are plenty of wordlists that I cannot find the origin of.
+I assume those are usable without getting into trouble.
 
-I assume these are usable without getting into trouble. Unless mentioned otherwise.
-
-WARNING: ...but I advise you do not incorporate them into anything serious without checking the legalities. Just saying.
+WARNING: ...but I advise you do not incorporate them into anything serious without YOU checking. Just saying.
 
 There are othes that are clearly part of copyrighted software. 
 I try to avoid them, but if you own the copyright for any and feel this is infringing, drop me a line, and I will try to link to them instead.
